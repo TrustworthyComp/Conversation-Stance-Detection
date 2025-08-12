@@ -1,4 +1,4 @@
-# TCSS-Conversational Stance Detection
+# TCSS-2023-Conversational Stance Detection
 Dataset and Codes for the accepted paper in IEEE transactions on computational social systems: "Improved Target-specific Stance Detection on Social Media Platform by Delving into Conversation Threads"
 
 # Environment Requirements
